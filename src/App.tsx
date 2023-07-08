@@ -2,7 +2,7 @@ import normalize from 'emotion-normalize';
 import { Global, css } from '@emotion/react';
 import { PageLayout } from '_tosslib/components/PageLayout';
 import { KeypadPage } from 'pages/KeypadPage';
-
+import { Button } from '_tosslib/components/Button';
 export default function App() {
   return (
     <>
